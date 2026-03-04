@@ -50741,7 +50741,7 @@ s=$.a_Q
 p=new A.N(new Float32Array(2))
 p.a4(s,0)
 s=new A.N(new Float32Array(2))
-s.a4(25,25)
+s.a4(50,50)
 r=A.e7()
 o=$.aZ()
 o=new A.cD(o,new Float32Array(2))
@@ -51510,8 +51510,8 @@ return A.r(null,r)}})
 return A.t($async$os,r)},
 a2(a){return A.a4j(B.aY,A.vi(new A.l7(1.7777777777777777,A.Np(new A.IM(this)),null),null,null))}}
 A.IM.prototype={
-$2(a,b){var s=null,r=b.b,q=r*0.1,p=this.a,o=p.c,n=r*0.15,m=r*0.02,l=t.F
-return A.zV(B.dd,A.d([A.Jb(s,B.v9,s,s,s,s,s),new A.hv(B.ru,s,s,new A.fU(new A.bM(0,b.d*0.15,0,0),A.add("\u88ab\u5f3e\u6570 : "+B.c.hQ(B.h.i(o.bQ),2,"0"),A.it(s,s,B.i,s,s,s,s,s,s,s,s,r*0.04*1.5,s,s,B.cq,s,s,!0,s,s,s,s,s,B.yb,s,s)),s),s),A.a0d(q,A.a4h(A.d([new A.kG("images/backtotitle.png",o.gUF(),n,s),A.Sf(s,s,m),new A.kG("images/retry.png",o.ga0q(),n,s),A.Sf(s,s,m),new A.kG("images/share.png",p.gSO(),n,s)],l),B.eM),q,s)],l))},
+$2(a,b){var s=null,r=b.b,q=r*0.1,p=this.a,o=p.c,n=r*0.02,m=r*0.25,l=t.F
+return A.zV(B.dd,A.d([A.Jb(s,B.v9,s,s,s,s,s),new A.hv(B.ru,s,s,new A.fU(new A.bM(0,b.d*0.25,0,0),A.add("\u88ab\u5f3e\u6570 : "+B.c.hQ(B.h.i(o.bQ),2,"0"),A.it(s,s,B.i,s,s,s,s,s,s,s,s,r*0.04*1.5,s,s,B.cq,s,s,!0,s,s,s,s,s,B.yb,s,s)),s),s),A.a0d(q*0.5,A.a4h(A.d([new A.kG("images/backtotitle.png",o.gUF(),r*0.3,s),A.Sf(s,s,n),new A.kG("images/retry.png",o.ga0q(),m,s),A.Sf(s,s,n),new A.kG("images/share.png",p.gSO(),m,s)],l),B.eM),q*0.85,s)],l))},
 $S:116}
 A.kG.prototype={
 bh(){return new A.CH()},
@@ -51559,9 +51559,9 @@ bh(){return new A.Fc()}}
 A.Fc.prototype={
 a2(a){return A.a4j(B.k,A.vi(new A.l7(1.7777777777777777,A.Np(new A.XQ(this)),null),null,null))}}
 A.XQ.prototype={
-$2(a,b){var s=null,r=b.b,q=r*0.1,p=A.ac0(0,A.a3c("images/start.png",B.rP,s)),o=this.a
+$2(a,b){var s=null,r=b.b,q=r*0.2,p=A.ac0(0,A.a3c("images/start.png",B.rP,s)),o=this.a
 r*=0.25
-return A.zV(B.dd,A.d([p,A.a0d(q,A.LK(s,A.Jb(s,s,A.a2t(s,s,s,s,new A.w0(B.rA,B.rQ,o.d?B.fs:B.rv),B.c6),r*0.37666666666666665,s,s,r),B.bz,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.XN(o),new A.XO(o),new A.XP(o)),q,s)],t.F))},
+return A.zV(B.dd,A.d([p,A.a0d(q/2,A.LK(s,A.Jb(s,s,A.a2t(s,s,s,s,new A.w0(B.rA,B.rQ,o.d?B.fs:B.rv),B.c6),r*0.37666666666666665,s,s,r),B.bz,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.XN(o),new A.XO(o),new A.XP(o)),q,s)],t.F))},
 $S:116}
 A.XO.prototype={
 $1(a){var s=this.a
